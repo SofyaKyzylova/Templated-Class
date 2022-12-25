@@ -100,7 +100,7 @@ void createBusStation()
 int main()
 {
 	setlocale(LC_ALL, "Russian");
-	/*
+	
 	ListNode<int>* N1 = new ListNode<int>();
 	N1->AddHead(10); N1->AddHead(7); N1->AddHead(4); N1->AddHead(6);
 	N1->AddTail(5); N1->AddTail(-1); N1->AddTail(3); N1->AddTail(-5);
@@ -236,7 +236,7 @@ int main()
 		cout << "Список пуст" << endl;
 	else cout << "Список не пуст" << endl;
 	cout << endl;
-	*/
+	
 
 
 	//ВАРИАНТ 10
